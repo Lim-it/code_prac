@@ -1,2 +1,2 @@
-# prac_codeforces
+# practice  
 archive
